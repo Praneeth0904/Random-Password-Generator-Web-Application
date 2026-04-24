@@ -1,4 +1,4 @@
----
+t---
 
 ## 📌 Random Password Generator
 
